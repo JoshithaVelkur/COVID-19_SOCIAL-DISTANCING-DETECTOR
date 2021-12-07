@@ -33,9 +33,7 @@
     plot.py     : Contain functions to draw bird eye view and frame
     models      : Contain yolo weights and cfg.
     data        : Contain video sample
-    output      : Contain output frames
-    output_vid  : Contain output videos(Empty for now)
-      
+    
 ## Usage:
         
      * If following same directory structure   
