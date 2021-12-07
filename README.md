@@ -76,6 +76,6 @@
 ![Bird Eye View](./demo/bird_eye_view.gif) 
 
    Output frames
-![Output 2](./demo/social_distancing.mp4)
+![Output 2](./demo/social_distancing.gif)
     
 More result frames are in output folder
